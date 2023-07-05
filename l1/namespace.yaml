@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: lesson15
+
+# apiVersion: v1
+# kind: Namespace
+# metadata:
+#   name: lesson14
